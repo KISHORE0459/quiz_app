@@ -13,8 +13,12 @@ To run the application locally, follow these steps:
 
 Clone this repository to your local machine:
 
-bash Copy code
+bash code
+https://github.com/KISHORE0459/quiz_app.git
 
+ or
+
+ gh repo clone KISHORE0459/quiz_app
 
 Install dependencies:
 
