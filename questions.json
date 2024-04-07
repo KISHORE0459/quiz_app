@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What module is used to create web servers in Node.js?",
+        "options": ["http", "fs", "url", "path"],
+        "answer": "http"
+    },
+    {
+        "question": "Which of the following is an event-driven architecture in Node.js?",
+        "options": ["REST", "SOAP", "Event Loop", "RPC"],
+        "answer": "Event Loop"
+    },
+    {
+        "question": "What is the purpose of the 'fs' module in Node.js?",
+        "options": ["To create web servers", "To manipulate files", "To handle network requests", "To perform mathematical operations"],
+        "answer": "To manipulate files"
+    },
+    {
+        "question": "Which of the following is NOT a core module in Node.js?",
+        "options": ["http", "path", "express", "fs"],
+        "answer": "express"
+    },
+    {
+        "question": "What does 'npm' stand for?",
+        "options": ["Node Package Manager", "Node Program Manager", "Node Project Manager", "Node Package Module"],
+        "answer": "Node Package Manager"
+    },
+    {
+        "question": "What is the role of 'module.exports' in Node.js?",
+        "options": ["To import modules", "To export modules", "To create web servers", "To handle network requests"],
+        "answer": "To export modules"
+    },
+    {
+        "question": "What is an EventEmitter in Node.js?",
+        "options": ["A function that emits events", "A built-in module", "An object that can emit events", "A type of middleware"],
+        "answer": "An object that can emit events"
+    },
+    {
+        "question": "What is the purpose of 'require' in Node.js?",
+        "options": ["To export modules", "To import modules", "To create web servers", "To handle network requests"],
+        "answer": "To import modules"
+    },
+    {
+        "question": "What is the non-blocking nature of Node.js?",
+        "options": ["It blocks the execution of other code", "It allows multiple threads to execute simultaneously", "It waits for I/O operations to complete before moving to the next task", "It continues to execute other code while waiting for I/O operations to complete"],
+        "answer": "It continues to execute other code while waiting for I/O operations to complete"
+    },
+    {
+        "question": "What is the event loop in Node.js?",
+        "options": ["A loop that runs continuously", "A mechanism for handling events", "A type of middleware", "A built-in module"],
+        "answer": "A mechanism for handling events"
+    },
+    {
+        "question": "What is the purpose of 'setTimeout' in Node.js?",
+        "options": ["To delay the execution of code", "To execute code repeatedly at a fixed interval", "To handle asynchronous operations", "To create web servers"],
+        "answer": "To delay the execution of code"
+    },
+    {
+        "question": "What is the purpose of 'process.argv' in Node.js?",
+        "options": ["To access command-line arguments", "To access environment variables", "To handle HTTP requests", "To export modules"],
+        "answer": "To access command-line arguments"
+    }
+]

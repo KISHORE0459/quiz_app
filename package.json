@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "name": "quiz2",
+  "description": "Node.js Quiz App This is a simple quiz application built with Node.js and Express.js. It allows users to take a quiz on Node.js concepts and receive immediate feedback on their answers.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
